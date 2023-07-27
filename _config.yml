@@ -16,8 +16,8 @@ minimal: true             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "blog.md", title: Blog}
   - {title: CV, url: https://jmhayles.github.io/Jan-Mikołaj%20Hayles%20CV.pdf}
+  - {file: "index.html", title: Blog}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:jan.hayles@icloud.com"}
